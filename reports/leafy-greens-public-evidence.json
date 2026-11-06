@@ -1,0 +1,137 @@
+[
+  {
+    "supplier": "Traders Hill Farm (Hilliard)",
+    "field": "Products, location, growing practices, contact",
+    "finding": "Supplier describes aquaponic produce, a closed-loop system and a zero-waste claim. Hilliard FL; 904-845-2627; info@tradershillfarm.com. Claims are supplier statements; current certificates and emissions/food-waste measurement records were not established.",
+    "source_url": "https://www.tradershill.com/",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "Dasher Farm (McAlpin)",
+    "field": "Products, location, contact",
+    "finding": "Farm describes McAlpin FL greenhouse production and a history of growing lettuce and herbs. Current lettuce quantities and delivery coverage require confirmation. Contact: dasherfarm@windstream.net.",
+    "source_url": "https://dasherfarm.com/about-us-2/",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "Dasher Farm (McAlpin)",
+    "field": "Distribution relationship",
+    "finding": "Traders Hill identifies Dasher as a partner farm. Avoid treating an aggregator and its grower as independent offers without separate quotes and origin records.",
+    "source_url": "https://www.tradershill.com/dasher-farm",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "The Villages Grown (The Villages)",
+    "field": "Current status unresolved",
+    "finding": "Official Sawgrass Grove directory lists a retail outlet and 352-775-7866. Retail presence does not establish current regional wholesale operations; original workbook closure claim remains unconfirmed.",
+    "source_url": "https://www.thevillages.com/shopping-dining/sawgrass-grove/",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "The Villages Grown (The Villages)",
+    "field": "Historical catalog only",
+    "finding": "2020 catalog describes lettuce, wholesale distribution and Global GAP certification. Historical claims cannot establish present certification or supply capacity.",
+    "source_url": "https://thevillagesgrown.com/wp-content/uploads/2020/06/TVG012_ProductCatalog2020_0320.pdf",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "Siembra Farm (Gainesville)",
+    "field": "Correction: greens and season",
+    "finding": "Farm lists lettuce, kale, collards, chard and arugula. 2026-27 CSA: November 4 2026 to June 16 2027, advertised as 32 weeks. This is mixed-produce CSA availability, not guaranteed institutional lettuce delivery coverage.",
+    "source_url": "https://www.siembrafarm.com/csa",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "Siembra Farm (Gainesville)",
+    "field": "Correction: certification",
+    "finding": "Farm says it ended official organic certification while retaining its growing practices. Do not label currently certified organic based on older references.",
+    "source_url": "https://www.siembrafarm.com/about",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "Siembra Farm (Gainesville)",
+    "field": "Public price context only",
+    "finding": "Family CSA listed at USD 1440; individual CSA USD 880 for 2026-27. These mixed-produce subscriptions cannot be converted to delivered lettuce USD/lb without product weights and allocation.",
+    "source_url": "https://www.siembrafarm.com/shop",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "Long & Scott Farms (Zellwood)",
+    "field": "Correction: greens, wholesale, season and quote route",
+    "finding": "Official wholesale page lists kale and collards as winter crops, mid-December to mid-April, weather dependent. Pricing is on request and FOB packing house, not delivered. Office 352-383-6900. Crop fit depends on selecting a common product; no lettuce offer established.",
+    "source_url": "https://longandscottfarms.com/wholesale/",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "ALT: Frog Song Organics (Hawthorne)",
+    "field": "Wholesale, service area and sourcing",
+    "finding": "Farm advertises wholesale sales to restaurants, retailers and schools and service to Gainesville. Website distinguishes own-farm from partner produce; offered Florida-grown percentage needs lot-level evidence. Certified organic is a supplier claim, not a certificate verification here.",
+    "source_url": "https://frogsongorganics.com/",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "ALT: Frog Song Organics (Hawthorne)",
+    "field": "Quote route",
+    "finding": "Wholesale inquiry form requests delivery address, hours and preferred days. Contact info@frogsongorganics.com; 352-468-3816. No inquiry sent.",
+    "source_url": "https://frogsongorganics.com/about-us/contact-us/",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "ALT: Sunswell Greens (Lake Worth, Punta Gorda)",
+    "field": "Products and production calendar",
+    "finding": "Supplier advertises Florida-grown specialty lettuces and microgreens with year-round greenhouse harvesting and shipment within 24-48 hours. Shipment timing is not measured on-time delivery or quality acceptance.",
+    "source_url": "https://sunswellgreens.com/",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "ALT: Sunswell Greens (Lake Worth, Punta Gorda)",
+    "field": "Distribution",
+    "finding": "Wholesale page lists foodservice distributors including Sysco and FreshPoint. Request a product-specific delivered Gainesville quote from a distributor.",
+    "source_url": "https://sunswellgreens.com/wholesale/",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "ALT: Sunswell Greens (Lake Worth, Punta Gorda)",
+    "field": "Growing practices",
+    "finding": "Supplier claims water recirculation and 90 percent water conservation. Water savings do not supply the app rubric's emissions and food-waste measurements or reduction targets.",
+    "source_url": "https://sunswellgreens.com/about-farms/",
+    "accessed": "2026-11-06",
+    "source_type": "First-party statement",
+    "verification": "Source checked; underlying performance not audited"
+  },
+  {
+    "supplier": "ALT: ARC Farm (Mt. Dora)",
+    "field": "Products and location",
+    "finding": "Distributor profile lists Mt Dora, baby lettuce and microgreens. Greenhouse-to-table timing is a quoted marketing claim, not measured delivery performance. Current price, origin allocation and capacity remain unconfirmed.",
+    "source_url": "https://local.freshpoint.com/location/arc-farm/",
+    "accessed": "2026-11-06",
+    "source_type": "Distributor profile",
+    "verification": "Source checked; underlying performance not audited"
+  }
+]

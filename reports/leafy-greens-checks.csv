@@ -1,0 +1,8 @@
+check,passed
+Original workbook requires conversion: no Suppliers sheet,True
+All eight supplier records preserved,True
+Converted supplier schema validates,True
+Unverified suppliers are excluded,True
+Missing numeric evidence prevents ranking even if eligibility were confirmed,True
+All 101 sensitivity scenarios run without unsupported rankings,True
+Saved Excel reimports and remains unranked,True
