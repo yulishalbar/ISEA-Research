@@ -1,0 +1,7 @@
+supplier,ingredient,eligible,price_per_lb,quality,local_share,sustainability,availability,data_type,evidence
+Demo Budget Greens,Leafy greens,True,2.0,75,20,35,95,Simulated,Fictional teaching record; all values invented
+Demo Florida Harvest,Leafy greens,True,2.8,88,95,75,85,Simulated,Fictional teaching record; all values invented
+Demo Circular Farm,Leafy greens,True,3.5,92,85,98,80,Simulated,Fictional teaching record; all values invented
+Demo Regional Produce,Leafy greens,True,2.4,84,55,65,98,Simulated,Fictional teaching record; all values invented
+Demo Campus Growers,Leafy greens,True,3.0,95,100,85,65,Simulated,Fictional teaching record; all values invented
+Demo Unverified Greens,Leafy greens,False,,80,70,,60,Simulated,Fictional teaching record; eligibility not established
